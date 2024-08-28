@@ -1,0 +1,15 @@
+C:\Users\Helia\OneDrive\Skrivbord\If-else\If-else\If-else\bin\Debug\net8.0\If-else.exe
+C:\Users\Helia\OneDrive\Skrivbord\If-else\If-else\If-else\bin\Debug\net8.0\If-else.deps.json
+C:\Users\Helia\OneDrive\Skrivbord\If-else\If-else\If-else\bin\Debug\net8.0\If-else.runtimeconfig.json
+C:\Users\Helia\OneDrive\Skrivbord\If-else\If-else\If-else\bin\Debug\net8.0\If-else.dll
+C:\Users\Helia\OneDrive\Skrivbord\If-else\If-else\If-else\bin\Debug\net8.0\If-else.pdb
+C:\Users\Helia\OneDrive\Skrivbord\If-else\If-else\If-else\obj\Debug\net8.0\If-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helia\OneDrive\Skrivbord\If-else\If-else\If-else\obj\Debug\net8.0\If-else.AssemblyInfoInputs.cache
+C:\Users\Helia\OneDrive\Skrivbord\If-else\If-else\If-else\obj\Debug\net8.0\If-else.AssemblyInfo.cs
+C:\Users\Helia\OneDrive\Skrivbord\If-else\If-else\If-else\obj\Debug\net8.0\If-else.csproj.CoreCompileInputs.cache
+C:\Users\Helia\OneDrive\Skrivbord\If-else\If-else\If-else\obj\Debug\net8.0\If-else.sourcelink.json
+C:\Users\Helia\OneDrive\Skrivbord\If-else\If-else\If-else\obj\Debug\net8.0\If-else.dll
+C:\Users\Helia\OneDrive\Skrivbord\If-else\If-else\If-else\obj\Debug\net8.0\refint\If-else.dll
+C:\Users\Helia\OneDrive\Skrivbord\If-else\If-else\If-else\obj\Debug\net8.0\If-else.pdb
+C:\Users\Helia\OneDrive\Skrivbord\If-else\If-else\If-else\obj\Debug\net8.0\If-else.genruntimeconfig.cache
+C:\Users\Helia\OneDrive\Skrivbord\If-else\If-else\If-else\obj\Debug\net8.0\ref\If-else.dll
